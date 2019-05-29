@@ -1,1 +1,1 @@
-# Machine-Learning-Technologies-course-work
+Курсовая работа по "Технологиям машинного обучения"
